@@ -8,6 +8,6 @@ function diagonal_cuadrado(n) {
                 linea += ' ';  // Agregamos espacios en el resto
             }
         }
-        console.log(linea);  // Imprimimos la línea completa
+        console.log(linea);  // Imprimimos la línea  completa
     }
 }
